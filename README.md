@@ -4,8 +4,10 @@
  </a>
 </div>
 
-<img align="center" alt="" src="![banner](https://github.com/user-attachments/assets/f185bb32-d1a7-4ee7-aabc-f76e1d8c6d25)">
-![banner](https://github.com/user-attachments/assets/f185bb32-d1a7-4ee7-aabc-f76e1d8c6d25)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cea41ce2-a27f-4757-b33a-97edf8216f03" height="100%" />
+</p>
+
 #
 
 <p align="center">Estudante de Desenvolvimento de Sistemas na Escola SESI. Atualmente atuo na divisão de Marketing e documentação da equipe de robótica CyberRain #9611.
@@ -13,7 +15,6 @@ Além disso, me interesso por história, documentação, preservação e restaur
   
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
