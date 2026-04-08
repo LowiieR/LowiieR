@@ -5,7 +5,7 @@
 </div>
 
 <img align="center" alt="" src="![banner](https://github.com/user-attachments/assets/f185bb32-d1a7-4ee7-aabc-f76e1d8c6d25)">
-
+![banner](https://github.com/user-attachments/assets/f185bb32-d1a7-4ee7-aabc-f76e1d8c6d25)
 #
 
 <p align="center">Estudante de Desenvolvimento de Sistemas na Escola SESI. Atualmente atuo na divisão de Marketing e documentação da equipe de robótica CyberRain #9611.
