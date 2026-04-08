@@ -8,8 +8,8 @@
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Desenvolvimento de Sistemas na Escola SESI. Atualmente atuo na divisão de Marketing e documentação da equipe de robótica CyberRain #9611.
+Além disso, me interesso por história, documentação, preservação e restauração, buscando integrar a tecnologia a essas áreas para contribuir com a conservação e o acesso ao conhecimento.
   
 #
 
