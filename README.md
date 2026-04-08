@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=568A31&section=header"/>
+
 <div align="center">
  <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=568A31&width=435&lines=.%E2%98%98%EF%B8%8E+%DD%81%CB%96+Welcome+to+my+profile!++%E1%90%A0(+%E1%90%9B+)%E1%90%9F" alt="Typing SVG" />
@@ -20,3 +22,4 @@ Além disso, me interesso por história, documentação, preservação e restaur
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](louie_ripper@estudante.sesisenai.org.br)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/itslowie.r/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=568A31&section=footer"/>
